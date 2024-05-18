@@ -1,6 +1,7 @@
 # BioBackHack
 Extraccion de datos de CHEMBL DATABASE para extraer descriptores moleculares de farmacos que pudieran ser posibles farmacos candidatos
 Utilizamos tecnicas de analisis de datos para extraer los farmacos candidatos, este trabajo supone el primer paso para el desarrollo de nuevos farmacos implementado inteligencia artificial generativa.
+Link de nuestro google colab : https://drive.google.com/drive/folders/1K3miyPSfYD9l2OvEY6i3ecwt6QlLwfiX?usp=drive_link
 
 
 # ChEMBL (ChEMBLdb) 
